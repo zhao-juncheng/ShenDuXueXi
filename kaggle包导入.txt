@@ -7,3 +7,5 @@ sys.path.append('../input')
 #print(sys.path)
 # 调用d2ltest.d2l模块
 from d2ltest.d2l import torch as d2l
+
+搜一下 github 的 branch在pycharm中如何管理与切换
