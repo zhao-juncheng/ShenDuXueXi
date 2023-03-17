@@ -1,4 +1,4 @@
-#以d2l包为例
+#以d2l为例
 #1.先找到d2l包，打包或者不打包，然后上传到dataset里的d2ltest下文件夹
 #2.在实例的dataset中添加d2ltest，然后就是下面的代码导入了
 # 添加input目录
@@ -7,5 +7,3 @@ sys.path.append('../input')
 #print(sys.path)
 # 调用d2ltest.d2l模块
 from d2ltest.d2l import torch as d2l
-
-github 的 branch 的管理，需要去搜索一下。
